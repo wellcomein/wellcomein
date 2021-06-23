@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vladimir.
+- 👀 I’m interested in programming for my self-development, believing that all my knowledge will also come in handy. Now I train at my company for the finance department.
+- 🌱 I’m currently learning Java, Python, C++, SQL, HTML, CSS, Machine Learning.
+- 📫 My e-mail: wellcomein@me.com
